@@ -1,4 +1,4 @@
-# Coin Flip
+# Coin Flip [![Build Status](https://travis-ci.org/jamesa/coinflip.svg?branch=master)](https://travis-ci.org/jamesa/coinflip)
 
 Have you ever wanted to flip a coin but didn't have one on hand?
 
