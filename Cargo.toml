@@ -1,0 +1,12 @@
+[package]
+name = "coinflip"
+version = "0.1.0"
+authors = ["James Anderson <james@jamesa.me>"]
+readme = "README.md"
+description = "A coin flipping CLI."
+repository = "https://github.com/jamesa/coinflip"
+license = "Apache-2.0"
+
+[dependencies]
+rand = "0.3.0"
+separator = "0.3.1"
